@@ -1,0 +1,516 @@
+{"timestamp":"12:56:36:984","category":"none","level":"Debug","message":"Loaded all default flags."}
+{"timestamp":"12:56:37:017","category":"none","level":"Info","message":"This is a modified version of Peacock that is intended to unlock all content in the game for free, made by @thecatinyourceiling."}
+{"timestamp":"12:56:37:017","category":"none","level":"Info","message":"PEACOCK IS NOT A PIRACY TOOL."}
+{"timestamp":"12:56:37:018","category":"none","level":"Info","message":"(Peacock v8.10.1, Node v24.14.1)"}
+{"timestamp":"12:56:37:018","category":"none","level":"Debug","message":"This person is using a cracked version of Peacock, twist their balls"}
+{"timestamp":"12:56:37:029","category":"boot","level":"Info","message":"Booting Peacock internal services - this may take a moment."}
+{"timestamp":"12:56:37:155","category":"scanGroups","level":"Debug","message":"Discovered 178 escalation groups."}
+{"timestamp":"12:56:37:159","category":"contracts","level":"Info","message":"Loading user contracts..."}
+{"timestamp":"12:56:37:165","category":"contracts","level":"Info","message":"Completed loading contracts."}
+{"timestamp":"12:56:37:950","category":"none","level":"Info","message":"Listening on localhost:47000..."}
+{"timestamp":"12:56:37:950","category":"none","level":"Info","message":"Server started."}
+{"timestamp":"12:57:17:819","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/config/pc-prod/8_26_0?issuer=1659040\u001b[24m"}
+{"timestamp":"12:57:17:836","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/files/onlineconfig.json\u001b[24m"}
+{"timestamp":"12:57:17:847","category":"http","level":"Info","message":"\u001b[32mHEAD\u001b[39m \u001b[4m/files/privacypolicy/hm3/privacypolicy_en.json\u001b[24m"}
+{"timestamp":"12:57:18:030","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/oauth/token\u001b[24m"}
+{"timestamp":"12:57:18:081","category":"none","level":"Debug","message":"Setting up container with ID 4fdd1ca1-5bd3-4846-850e-1c24c751413b."}
+{"timestamp":"12:57:18:081","category":"none","level":"Info","message":"All content and DLC has been granted, enjoy!"}
+{"timestamp":"12:57:18:098","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/GetPlatformEntitlements\u001b[24m"}
+{"timestamp":"12:57:18:100","category":"none","level":"Debug","message":"Platform issuer: 1659040"}
+{"timestamp":"12:57:18:120","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/authentication/api/configuration/Init?configName=pc-prod&lockedContentDisabled=false&isFreePrologueUser=false&isIntroPackUser=false&isFullExperienceUser=true\u001b[24m"}
+{"timestamp":"12:57:18:134","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/AuthenticationService/GetBlobOfflineCacheDatabaseDiff\u001b[24m"}
+{"timestamp":"12:57:18:147","category":"http","level":"Info","message":"\u001b[32mHEAD\u001b[39m \u001b[4m/resources-8-26/dynamic_resources_pc_release_rpkg?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:18:148","category":"dynRes","level":"Debug","message":"Serving dynamic resources from file dynamic_resources_h3.rpkg."}
+{"timestamp":"12:57:18:189","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateProfileStats\u001b[24m"}
+{"timestamp":"12:57:18:194","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/SynchroniseAchievements\u001b[24m"}
+{"timestamp":"12:57:18:195","category":"none","level":"Warn","message":"Unhandled URL: /authentication/api/userchannel/ProfileService/SynchroniseAchievements"}
+{"timestamp":"12:57:18:210","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/GetUserConfig\u001b[24m"}
+{"timestamp":"12:57:18:222","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/GetProfile\u001b[24m"}
+{"timestamp":"12:57:18:224","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:18:238","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/SynchroniseGameStats\u001b[24m"}
+{"timestamp":"12:57:18:252","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:18:267","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/SynchronizeOfflineUnlockables\u001b[24m"}
+{"timestamp":"12:57:18:280","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:57:18:294","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:57:18:315","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateExtensions\u001b[24m"}
+{"timestamp":"12:57:18:316","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/GamePersistentDataService/GetData\u001b[24m"}
+{"timestamp":"12:57:18:335","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/GetFriendsCount\u001b[24m"}
+{"timestamp":"12:57:18:352","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:18:367","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:57:18:498","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:57:18:588","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/profiles/page/Hub\u001b[24m"}
+{"timestamp":"12:57:18:591","category":"none","level":"Debug","message":"Lazy-loaded 1711 unlockables for h3"}
+{"timestamp":"12:57:19:061","category":"none","level":"Debug","message":"Get EscalationUCProps - group: ae04c7a0-4028-4524-b27f-6a62f020fdca prog: 1"}
+{"timestamp":"12:57:19:062","category":"none","level":"Debug","message":"Get EscalationUCProps - group: 494d97a6-9e31-45e0-9dae-f3793c731336 prog: 1"}
+{"timestamp":"12:57:19:062","category":"none","level":"Debug","message":"Get EscalationUCProps - group: a838c4b0-7db5-4ac7-8d52-e8c5b82aa376 prog: 1"}
+{"timestamp":"12:57:19:062","category":"none","level":"Debug","message":"Get EscalationUCProps - group: e3b65e65-636b-4dfd-bb42-65a18c5dce4a prog: 1"}
+{"timestamp":"12:57:19:062","category":"none","level":"Debug","message":"Get EscalationUCProps - group: 5121acde-313d-4517-ae70-6a54ca5d775a prog: 1"}
+{"timestamp":"12:57:19:062","category":"none","level":"Debug","message":"Get EscalationUCProps - group: 8c8ed496-948f-4672-879b-4d9575406577 prog: 1"}
+{"timestamp":"12:57:19:062","category":"none","level":"Debug","message":"Get EscalationUCProps - group: 8e95dcd0-704f-4121-8be6-088a3812f838 prog: 1"}
+{"timestamp":"12:57:19:119","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/hub/hub_page.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:148","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/hub/data/isfullmenuavailable.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:148","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/hub/dashboard/dashboard.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:157","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/settings/ioiaccount/ioiaccount_maintab.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:173","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/hub/modals/peacock/updatecheckmodal.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:173","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/hub/modals/roadmap/modal.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:181","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/peacock-menu/options.json@?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:187","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/challenges/challengelocationview.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:188","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/contract/contractshitcategoryloading.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:189","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/settings/data/isnonvroptionvisible.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:200","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/peacock-menu/flags/index.json@?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:207","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/challenges/data/data_challengelocation_season3.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:207","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/challenges/data/data_challengelocation_packs.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:221","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/data/ispeacockdev.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:19:233","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/challenges/challengelocationviewtile.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:23:317","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/config/pc-prod/8_26_0?issuer=1659040\u001b[24m"}
+{"timestamp":"12:57:23:338","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/files/onlineconfig.json\u001b[24m"}
+{"timestamp":"12:57:23:355","category":"http","level":"Info","message":"\u001b[32mHEAD\u001b[39m \u001b[4m/files/privacypolicy/hm3/privacypolicy_en.json\u001b[24m"}
+{"timestamp":"12:57:23:537","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/oauth/token\u001b[24m"}
+{"timestamp":"12:57:23:564","category":"none","level":"Debug","message":"Setting up container with ID 4fdd1ca1-5bd3-4846-850e-1c24c751413b."}
+{"timestamp":"12:57:23:565","category":"none","level":"Info","message":"All content and DLC has been granted, enjoy!"}
+{"timestamp":"12:57:23:579","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/GetPlatformEntitlements\u001b[24m"}
+{"timestamp":"12:57:23:580","category":"none","level":"Debug","message":"Platform issuer: 1659040"}
+{"timestamp":"12:57:23:603","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/authentication/api/configuration/Init?configName=pc-prod&lockedContentDisabled=false&isFreePrologueUser=false&isIntroPackUser=false&isFullExperienceUser=true\u001b[24m"}
+{"timestamp":"12:57:23:625","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/AuthenticationService/GetBlobOfflineCacheDatabaseDiff\u001b[24m"}
+{"timestamp":"12:57:23:654","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateProfileStats\u001b[24m"}
+{"timestamp":"12:57:23:656","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/SynchroniseAchievements\u001b[24m"}
+{"timestamp":"12:57:23:657","category":"none","level":"Warn","message":"Unhandled URL: /authentication/api/userchannel/ProfileService/SynchroniseAchievements"}
+{"timestamp":"12:57:23:668","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/GetUserConfig\u001b[24m"}
+{"timestamp":"12:57:23:683","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/GetProfile\u001b[24m"}
+{"timestamp":"12:57:23:684","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:23:696","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/SynchroniseGameStats\u001b[24m"}
+{"timestamp":"12:57:23:706","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:23:727","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/SynchronizeOfflineUnlockables\u001b[24m"}
+{"timestamp":"12:57:23:729","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:57:23:736","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:57:23:752","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:57:23:766","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:57:23:809","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:57:23:871","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/profiles/page/Hub\u001b[24m"}
+{"timestamp":"12:57:24:292","category":"none","level":"Debug","message":"Get EscalationUCProps - group: ae04c7a0-4028-4524-b27f-6a62f020fdca prog: 1"}
+{"timestamp":"12:57:24:292","category":"none","level":"Debug","message":"Get EscalationUCProps - group: 494d97a6-9e31-45e0-9dae-f3793c731336 prog: 1"}
+{"timestamp":"12:57:24:292","category":"none","level":"Debug","message":"Get EscalationUCProps - group: a838c4b0-7db5-4ac7-8d52-e8c5b82aa376 prog: 1"}
+{"timestamp":"12:57:24:293","category":"none","level":"Debug","message":"Get EscalationUCProps - group: e3b65e65-636b-4dfd-bb42-65a18c5dce4a prog: 1"}
+{"timestamp":"12:57:24:293","category":"none","level":"Debug","message":"Get EscalationUCProps - group: 5121acde-313d-4517-ae70-6a54ca5d775a prog: 1"}
+{"timestamp":"12:57:24:293","category":"none","level":"Debug","message":"Get EscalationUCProps - group: 8c8ed496-948f-4672-879b-4d9575406577 prog: 1"}
+{"timestamp":"12:57:24:293","category":"none","level":"Debug","message":"Get EscalationUCProps - group: 8e95dcd0-704f-4121-8be6-088a3812f838 prog: 1"}
+{"timestamp":"12:57:25:348","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/profiles/page/Planning?contractid=f8ec92c2-4fa2-471e-ae08-545480c746ee&resetescalation=false&forcecurrentcontract=false&errorhandling=false\u001b[24m"}
+{"timestamp":"12:57:25:349","category":"none","level":"Debug","message":"Looking up details for contract - Location:LOCATION_SNUG (assembly:/_pro/scenes/missions/snug/scene_vanilla.entity)"}
+{"timestamp":"12:57:25:367","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:57:25:425","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/planning/actions/actions_contextbutton_play.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:25:668","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/DefaultLoadoutService/Set\u001b[24m"}
+{"timestamp":"12:57:25:668","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ContractsService/GetForPlay2\u001b[24m"}
+{"timestamp":"12:57:25:695","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ChallengesService/GetActiveChallengesAndProgression\u001b[24m"}
+{"timestamp":"12:57:25:706","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/HubPagesService/GetChallengeTreeFor\u001b[24m"}
+{"timestamp":"12:57:25:707","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:25:770","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:33:763","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:57:34:462","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:464","category":"none","level":"Debug","message":"Event summary: \u001b[90mGearSlotsUsed, Evergreen_MissionPayout\u001b[39m"}
+{"timestamp":"12:57:34:466","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:34:599","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:600","category":"none","level":"Debug","message":"Ambient switched to 1"}
+{"timestamp":"12:57:34:601","category":"none","level":"Debug","message":"Event summary: \u001b[90mAmbientChanged, ContractStart\u001b[39m"}
+{"timestamp":"12:57:34:719","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:720","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:57:34:723","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:725","category":"none","level":"Debug","message":"Event summary: \u001b[90mEvergreen_Merces_Data, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:34:727","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:34:757","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:759","category":"none","level":"Debug","message":"Event summary: \u001b[90mNoCampaignActive, LetsGoHuntingUpdate\u001b[39m"}
+{"timestamp":"12:57:34:787","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:790","category":"none","level":"Debug","message":"Event summary: \u001b[90mGunslingerUpdate, OneShotOneKillUpdate\u001b[39m"}
+{"timestamp":"12:57:34:810","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:812","category":"none","level":"Debug","message":"Event summary: \u001b[90mThisIsMyRifleUpdate, UpCloseAndPersonalUpdate\u001b[39m"}
+{"timestamp":"12:57:34:817","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/ResolveProfiles\u001b[24m"}
+{"timestamp":"12:57:34:830","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/pause/pausemenu/save.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:831","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/pause/pausemenu/load.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:832","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/pause/pausemenu/restart.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:832","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/pause/pausemenu/replan.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:843","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:844","category":"none","level":"Debug","message":"Event summary: \u001b[90mGearSlotsTutorialised, Evergreen_Mastery_Level\u001b[39m"}
+{"timestamp":"12:57:34:882","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:884","category":"none","level":"Debug","message":"Event summary: \u001b[90mGearSlotsTotal, GearSlotsUsed\u001b[39m"}
+{"timestamp":"12:57:34:920","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/_title.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:921","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/_image.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:921","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/_title.json?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:57:34:922","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/_image.json?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:57:34:923","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/_storeurl.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:923","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/_packageid.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:924","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/_storeurl.json?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:57:34:924","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/_packageid.json?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:57:34:937","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:938","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_Timed_Hiding, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:34:972","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:974","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:34:978","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/settings/data/isnonvroptionvisible.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:57:34:986","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:34:988","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, GearSlotsTutorialised\u001b[39m"}
+{"timestamp":"12:57:35:006","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:35:009","category":"none","level":"Debug","message":"Event summary: \u001b[90mGearSlotsTotal, GearSlotsUsed\u001b[39m"}
+{"timestamp":"12:57:35:025","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:35:027","category":"none","level":"Info","message":"Picked up item with repository ID: d5728a0f-fe8d-4e2d-9350-03cf4243c98e"}
+{"timestamp":"12:57:35:028","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp, GearSlotsUsed\u001b[39m"}
+{"timestamp":"12:57:35:044","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:35:047","category":"none","level":"Debug","message":"Event summary: \u001b[90mHoldingIllegalWeapon, StartingSuit\u001b[39m"}
+{"timestamp":"12:57:35:067","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:35:069","category":"none","level":"Debug","message":"Mission started at: 0.233515"}
+{"timestamp":"12:57:35:070","category":"none","level":"Debug","message":"Event summary: \u001b[90mIntroCutEnd, ObjectiveCompleted\u001b[39m"}
+{"timestamp":"12:57:35:084","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:35:086","category":"none","level":"Info","message":"Picked up item with repository ID: f3f8ac31-195d-4701-9e7c-775d621a405a"}
+{"timestamp":"12:57:35:087","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp, GearSlotsUsed\u001b[39m"}
+{"timestamp":"12:57:35:105","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:35:107","category":"none","level":"Debug","message":"Event summary: \u001b[90mObjectiveCompleted\u001b[39m"}
+{"timestamp":"12:57:35:634","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:35:636","category":"none","level":"Debug","message":"Event summary: \u001b[90mCampaignName\u001b[39m"}
+{"timestamp":"12:57:35:636","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:35:887","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:35:890","category":"none","level":"Debug","message":"Event summary: \u001b[90mCollectorUpdate\u001b[39m"}
+{"timestamp":"12:57:35:890","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:36:015","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:57:39:364","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:39:366","category":"none","level":"Debug","message":"Setpiece: 7f548b7b-0196-4e34-8fb9-f901fa2ce75d"}
+{"timestamp":"12:57:39:366","category":"none","level":"Debug","message":"Event summary: \u001b[90msetpieces\u001b[39m"}
+{"timestamp":"12:57:41:596","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:41:599","category":"none","level":"Debug","message":"Event summary: \u001b[90mTravelDestination, Activate_KillGuard_AssaultRifle\u001b[39m"}
+{"timestamp":"12:57:41:599","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:41:621","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:41:624","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_PoisonGuard_Any, Activate_KillGuard_Shotgun\u001b[39m"}
+{"timestamp":"12:57:41:642","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:41:646","category":"none","level":"Debug","message":"Event summary: \u001b[90mObjectiveCompleted, ObjectiveCompleted\u001b[39m"}
+{"timestamp":"12:57:41:662","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:41:664","category":"none","level":"Debug","message":"Event summary: \u001b[90mObjectiveCompleted\u001b[39m"}
+{"timestamp":"12:57:43:765","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:57:49:810","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:811","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:49:813","category":"none","level":"Debug","message":"Setpiece: 1b86372e-c52f-4651-b5f8-cd19ca72973c"}
+{"timestamp":"12:57:49:814","category":"none","level":"Debug","message":"Event summary: \u001b[90msetpieces, Deactivate_Timed_Hiding\u001b[39m"}
+{"timestamp":"12:57:49:828","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:830","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:49:847","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:850","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:49:867","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:869","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:49:883","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:887","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:49:905","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:908","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:49:922","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:926","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:49:944","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:947","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:49:960","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:49:964","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout, Activate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:57:53:770","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:57:55:848","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:55:848","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:57:55:851","category":"none","level":"Debug","message":"Setpiece: cf78cfe6-4092-4f6c-b271-8f78624655bf"}
+{"timestamp":"12:57:55:854","category":"none","level":"Debug","message":"Event summary: \u001b[90msetpieces, Activate_Timed_Hiding\u001b[39m"}
+{"timestamp":"12:57:55:868","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:55:870","category":"none","level":"Debug","message":"Event summary: \u001b[90mObjectiveCompleted\u001b[39m"}
+{"timestamp":"12:57:58:113","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:58:116","category":"none","level":"Debug","message":"Event summary: \u001b[90mGearSlotsUsed\u001b[39m"}
+{"timestamp":"12:57:59:929","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:57:59:932","category":"none","level":"Debug","message":"Setpiece: 89b955b0-c0a6-4992-96f8-d3f96858d650"}
+{"timestamp":"12:57:59:932","category":"none","level":"Debug","message":"Event summary: \u001b[90msetpieces\u001b[39m"}
+{"timestamp":"12:58:02:450","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:58:02:454","category":"none","level":"Debug","message":"Mission ended at: 27.860428"}
+{"timestamp":"12:58:02:455","category":"none","level":"Debug","message":"Event summary: \u001b[90mExitInventory, ContractEnd\u001b[39m"}
+{"timestamp":"12:58:02:455","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/GamePersistentDataService/SaveData\u001b[24m"}
+{"timestamp":"12:58:02:459","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:02:467","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ContractsService/GetForPlay2\u001b[24m"}
+{"timestamp":"12:58:02:505","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ChallengesService/GetActiveChallengesAndProgression\u001b[24m"}
+{"timestamp":"12:58:02:515","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/HubPagesService/GetChallengeTreeFor\u001b[24m"}
+{"timestamp":"12:58:02:517","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:02:571","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:04:794","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:10:397","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:398","category":"none","level":"Debug","message":"Event summary: \u001b[90mHeroSpawn_Location\u001b[39m"}
+{"timestamp":"12:58:10:399","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:10:490","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:493","category":"none","level":"Debug","message":"Event summary: \u001b[90mContractStart, OneShotOneKillUpdate\u001b[39m"}
+{"timestamp":"12:58:10:614","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:614","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:58:10:638","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:638","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:10:641","category":"none","level":"Debug","message":"Event summary: \u001b[90mThisIsMyRifleUpdate, LetsGoHuntingUpdate\u001b[39m"}
+{"timestamp":"12:58:10:673","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:675","category":"none","level":"Debug","message":"Event summary: \u001b[90mUpCloseAndPersonalUpdate, Evergreen_Merces_Data\u001b[39m"}
+{"timestamp":"12:58:10:696","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:698","category":"none","level":"Debug","message":"Event summary: \u001b[90mEvergreen_Mastery_Level, GunslingerUpdate\u001b[39m"}
+{"timestamp":"12:58:10:698","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:10:720","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:722","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_Timed_Hiding, Activate_KillGuard_Shotgun\u001b[39m"}
+{"timestamp":"12:58:10:735","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/pause/pausemenu/save.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:736","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/pause/pausemenu/load.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:738","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/pause/pausemenu/restart.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:739","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/pages/pause/pausemenu/replan.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:761","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:763","category":"none","level":"Debug","message":"Event summary: \u001b[90mSetPayout, Activate_PoisonGuard_Any\u001b[39m"}
+{"timestamp":"12:58:10:806","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:808","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_KillGuard_AssaultRifle, NumberOfTargets\u001b[39m"}
+{"timestamp":"12:58:10:820","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/_title.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:821","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/_image.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:821","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/_title.json?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:58:10:822","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/_image.json?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:58:10:822","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/_storeurl.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:823","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/_packageid.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:823","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/_storeurl.json?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:58:10:823","category":"none","level":"Warn","message":"Unhandled URL: /resources-8-26/_packageid.json?sv=2018-03-28&ver=h3"}
+{"timestamp":"12:58:10:830","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:832","category":"none","level":"Debug","message":"Ambient switched to 1"}
+{"timestamp":"12:58:10:833","category":"none","level":"Debug","message":"Event summary: \u001b[90mEvergreen_Mission_Data, AmbientChanged\u001b[39m"}
+{"timestamp":"12:58:10:851","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:853","category":"none","level":"Debug","message":"Event summary: \u001b[90mAddSyndicateTarget, TargetPickedConfirm\u001b[39m"}
+{"timestamp":"12:58:10:856","category":"http","level":"Info","message":"\u001b[32mGET\u001b[39m \u001b[4m/resources-8-26/menusystem/elements/settings/data/isnonvroptionvisible.json?sv=2018-03-28&ver=h3\u001b[24m"}
+{"timestamp":"12:58:10:870","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:871","category":"none","level":"Debug","message":"Event summary: \u001b[90mObjectiveCompleted, ObjectiveCompleted\u001b[39m"}
+{"timestamp":"12:58:10:885","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:887","category":"none","level":"Debug","message":"Event summary: \u001b[90mObjectiveCompleted, ObjectiveCompleted\u001b[39m"}
+{"timestamp":"12:58:10:900","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:901","category":"none","level":"Info","message":"Picked up item with repository ID: f3f8ac31-195d-4701-9e7c-775d621a405a"}
+{"timestamp":"12:58:10:901","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp\u001b[39m"}
+{"timestamp":"12:58:10:961","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:10:964","category":"none","level":"Info","message":"Picked up item with repository ID: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"12:58:10:964","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp\u001b[39m"}
+{"timestamp":"12:58:11:782","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:11:786","category":"none","level":"Debug","message":"Event summary: \u001b[90mCollectorUpdate\u001b[39m"}
+{"timestamp":"12:58:11:787","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:12:448","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:58:12:525","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:12:528","category":"none","level":"Debug","message":"Event summary: \u001b[90mActivate_EliminationPayout\u001b[39m"}
+{"timestamp":"12:58:12:529","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:12:545","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:12:547","category":"none","level":"Debug","message":"Event summary: \u001b[90mObjectiveCompleted\u001b[39m"}
+{"timestamp":"12:58:21:528","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:21:531","category":"none","level":"Debug","message":"Mission started at: 11.10428"}
+{"timestamp":"12:58:21:531","category":"none","level":"Debug","message":"Event summary: \u001b[90mStartingSuit, IntroCutEnd\u001b[39m"}
+{"timestamp":"12:58:21:549","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:21:551","category":"none","level":"Debug","message":"Event summary: \u001b[90mIntroCutEnd\u001b[39m"}
+{"timestamp":"12:58:22:448","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:58:25:726","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:25:729","category":"none","level":"Debug","message":"Area discovered: 59c0c4ff-c5b6-47e9-9fbf-5262b90072ad"}
+{"timestamp":"12:58:25:729","category":"none","level":"Debug","message":"Event summary: \u001b[90mAreaDiscovered\u001b[39m"}
+{"timestamp":"12:58:25:760","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:58:32:460","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:58:34:003","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:34:006","category":"none","level":"Debug","message":"Event summary: \u001b[90mTrespassing\u001b[39m"}
+{"timestamp":"12:58:40:854","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:40:855","category":"none","level":"Debug","message":"Area discovered: 545c1bed-a8ce-4f23-9565-781435b75a5f"}
+{"timestamp":"12:58:40:855","category":"none","level":"Debug","message":"Event summary: \u001b[90mAreaDiscovered\u001b[39m"}
+{"timestamp":"12:58:40:883","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/ProfileService/UpdateUserSaveFileTable\u001b[24m"}
+{"timestamp":"12:58:41:973","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:41:975","category":"none","level":"Debug","message":"Event summary: \u001b[90mInvestigate_Curious\u001b[39m"}
+{"timestamp":"12:58:41:989","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:41:991","category":"none","level":"Debug","message":"Ambient switched to 4"}
+{"timestamp":"12:58:41:991","category":"none","level":"Debug","message":"Event summary: \u001b[90mAmbientChanged\u001b[39m"}
+{"timestamp":"12:58:42:458","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:58:50:100","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:50:103","category":"none","level":"Debug","message":"Ambient switched to 1"}
+{"timestamp":"12:58:50:104","category":"none","level":"Debug","message":"Event summary: \u001b[90mAmbientChanged\u001b[39m"}
+{"timestamp":"12:58:52:465","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:58:58:389","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:58:394","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemRemovedFromInventory, ItemThrown\u001b[39m"}
+{"timestamp":"12:58:59:446","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:59:449","category":"none","level":"Debug","message":"Event summary: \u001b[90mPacify\u001b[39m"}
+{"timestamp":"12:58:59:450","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:59:806","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:59:809","category":"none","level":"Debug","message":"Event summary: \u001b[90mMurderedBodySeen, BodyFound\u001b[39m"}
+{"timestamp":"12:58:59:828","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:59:832","category":"none","level":"Debug","message":"Event summary: \u001b[90mNoticed_Pacified, DeadBodySeen\u001b[39m"}
+{"timestamp":"12:58:59:851","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:58:59:853","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:58:59:854","category":"none","level":"Debug","message":"Ambient switched to 5"}
+{"timestamp":"12:58:59:854","category":"none","level":"Debug","message":"Event summary: \u001b[90mAmbientChanged\u001b[39m"}
+{"timestamp":"12:59:02:473","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:59:05:722","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:05:724","category":"none","level":"Info","message":"Picked up item with repository ID: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"12:59:05:724","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp\u001b[39m"}
+{"timestamp":"12:59:08:689","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:08:694","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemRemovedFromInventory, ItemThrown\u001b[39m"}
+{"timestamp":"12:59:08:922","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:08:925","category":"none","level":"Debug","message":"Event summary: \u001b[90mEvergreen_SecurityCameraDestroyed, SecuritySystemRecorder\u001b[39m"}
+{"timestamp":"12:59:08:951","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:08:953","category":"none","level":"Debug","message":"Event summary: \u001b[90mSecuritySystemRecorder\u001b[39m"}
+{"timestamp":"12:59:09:684","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:09:685","category":"none","level":"Info","message":"Picked up item with repository ID: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"12:59:09:685","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp\u001b[39m"}
+{"timestamp":"12:59:10:565","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:10:566","category":"none","level":"Debug","message":"Item dropped: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"12:59:10:566","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemDropped\u001b[39m"}
+{"timestamp":"12:59:10:567","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:59:10:582","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:10:585","category":"none","level":"Debug","message":"Now disguised: 25406dac-d206-48c7-a6df-dffb887c9227"}
+{"timestamp":"12:59:10:585","category":"none","level":"Debug","message":"Event summary: \u001b[90mDisguise\u001b[39m"}
+{"timestamp":"12:59:10:592","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:59:10:633","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:10:635","category":"none","level":"Debug","message":"Event summary: \u001b[90mTrespassing\u001b[39m"}
+{"timestamp":"12:59:10:788","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:10:791","category":"none","level":"Debug","message":"Event summary: \u001b[90mInvestigate_Curious\u001b[39m"}
+{"timestamp":"12:59:12:472","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:59:12:663","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:12:665","category":"none","level":"Info","message":"Picked up item with repository ID: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"12:59:12:666","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp\u001b[39m"}
+{"timestamp":"12:59:18:339","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:18:340","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:59:18:344","category":"none","level":"Debug","message":"Event summary: \u001b[90mSecuritySystemRecorder\u001b[39m"}
+{"timestamp":"12:59:22:472","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:59:23:679","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:59:23:689","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:23:692","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"12:59:23:713","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:23:714","category":"none","level":"Debug","message":"Event summary: \u001b[90mInvestigate_Curious\u001b[39m"}
+{"timestamp":"12:59:25:694","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:25:697","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"12:59:32:479","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:59:37:801","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:37:805","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemRemovedFromInventory, ItemThrown\u001b[39m"}
+{"timestamp":"12:59:37:954","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:37:956","category":"none","level":"Debug","message":"Event summary: \u001b[90mPacify\u001b[39m"}
+{"timestamp":"12:59:37:956","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:59:37:983","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:37:984","category":"none","level":"Debug","message":"Event summary: \u001b[90mInvestigate_Curious\u001b[39m"}
+{"timestamp":"12:59:39:053","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:39:055","category":"none","level":"Debug","message":"Event summary: \u001b[90mBodyFound\u001b[39m"}
+{"timestamp":"12:59:39:718","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:39:721","category":"none","level":"Debug","message":"Event summary: \u001b[90mTargetBodySpotted, BodyFound\u001b[39m"}
+{"timestamp":"12:59:39:733","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:39:736","category":"none","level":"Debug","message":"Event summary: \u001b[90mNoticed_Pacified, DeadBodySeen\u001b[39m"}
+{"timestamp":"12:59:42:484","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:59:52:485","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"12:59:54:941","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"12:59:54:942","category":"none","level":"Info","message":"Picked up item with repository ID: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"12:59:54:942","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp\u001b[39m"}
+{"timestamp":"12:59:57:306","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:59:57:753","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"12:59:58:220","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:02:186","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:02:189","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemRemovedFromInventory, ItemThrown\u001b[39m"}
+{"timestamp":"13:00:02:484","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"13:00:03:100","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:03:104","category":"none","level":"Debug","message":"Event summary: \u001b[90mEvergreen_SecurityCameraDestroyed, SecuritySystemRecorder\u001b[39m"}
+{"timestamp":"13:00:03:125","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:03:127","category":"none","level":"Debug","message":"Event summary: \u001b[90mSecuritySystemRecorder\u001b[39m"}
+{"timestamp":"13:00:03:156","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:03:158","category":"none","level":"Debug","message":"Event summary: \u001b[90mInvestigate_Curious\u001b[39m"}
+{"timestamp":"13:00:06:509","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:06:510","category":"none","level":"Info","message":"Picked up item with repository ID: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"13:00:06:512","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp\u001b[39m"}
+{"timestamp":"13:00:07:768","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:07:771","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:00:08:764","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:08:766","category":"none","level":"Debug","message":"Event summary: \u001b[90mAllPacifiedHidden\u001b[39m"}
+{"timestamp":"13:00:12:487","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"13:00:19:486","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:19:487","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:19:489","category":"none","level":"Debug","message":"Setpiece: eeaa5624-eb63-4792-bf55-a8aa5a21f0c6"}
+{"timestamp":"13:00:19:490","category":"none","level":"Debug","message":"Event summary: \u001b[90msetpieces\u001b[39m"}
+{"timestamp":"13:00:20:687","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:20:687","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:20:694","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:00:20:712","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:20:714","category":"none","level":"Debug","message":"Ambient switched to 6"}
+{"timestamp":"13:00:20:716","category":"none","level":"Debug","message":"Event summary: \u001b[90mAmbientChanged, DisguiseBlown\u001b[39m"}
+{"timestamp":"13:00:20:733","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:20:736","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:00:21:292","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:21:295","category":"none","level":"Debug","message":"Setpiece: eeaa5624-eb63-4792-bf55-a8aa5a21f0c6"}
+{"timestamp":"13:00:21:295","category":"none","level":"Debug","message":"Event summary: \u001b[90msetpieces\u001b[39m"}
+{"timestamp":"13:00:21:473","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:21:475","category":"none","level":"Debug","message":"Setpiece: eeaa5624-eb63-4792-bf55-a8aa5a21f0c6"}
+{"timestamp":"13:00:21:475","category":"none","level":"Debug","message":"Event summary: \u001b[90msetpieces\u001b[39m"}
+{"timestamp":"13:00:21:597","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:21:598","category":"none","level":"Debug","message":"Setpiece: eeaa5624-eb63-4792-bf55-a8aa5a21f0c6"}
+{"timestamp":"13:00:21:599","category":"none","level":"Debug","message":"Event summary: \u001b[90msetpieces\u001b[39m"}
+{"timestamp":"13:00:22:493","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"13:00:32:501","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"13:00:35:595","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:35:598","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"13:00:35:623","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:35:624","category":"none","level":"Debug","message":"Ambient switched to 7"}
+{"timestamp":"13:00:35:625","category":"none","level":"Debug","message":"Event summary: \u001b[90mAmbientChanged\u001b[39m"}
+{"timestamp":"13:00:35:626","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:37:218","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:37:220","category":"none","level":"Debug","message":"Item dropped: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"13:00:37:220","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemDropped\u001b[39m"}
+{"timestamp":"13:00:37:221","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:38:453","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:38:456","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"13:00:39:363","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:39:364","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:39:366","category":"none","level":"Debug","message":"Ambient switched to 8"}
+{"timestamp":"13:00:39:366","category":"none","level":"Debug","message":"Event summary: \u001b[90mAmbientChanged\u001b[39m"}
+{"timestamp":"13:00:40:230","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:40:251","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:42:506","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"13:00:44:295","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:44:297","category":"none","level":"Info","message":"Picked up item with repository ID: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"13:00:44:298","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemPickedUp\u001b[39m"}
+{"timestamp":"13:00:49:467","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:49:471","category":"none","level":"Debug","message":"Event summary: \u001b[90mPacify, BodyFound\u001b[39m"}
+{"timestamp":"13:00:49:472","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:49:486","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:49:488","category":"none","level":"Debug","message":"Event summary: \u001b[90mNoticed_Pacified, DeadBodySeen\u001b[39m"}
+{"timestamp":"13:00:50:115","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:50:118","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:00:50:159","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:50:164","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:00:50:184","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:50:187","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:00:50:603","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:50:605","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"13:00:52:511","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"13:00:56:665","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:56:667","category":"none","level":"Debug","message":"Item dropped: 15e6200e-2000-4966-9771-923ab13c6a1c"}
+{"timestamp":"13:00:56:668","category":"none","level":"Info","message":"Picked up item with repository ID: d5728a0f-fe8d-4e2d-9350-03cf4243c98e"}
+{"timestamp":"13:00:56:669","category":"none","level":"Debug","message":"Event summary: \u001b[90mItemDropped, ItemPickedUp\u001b[39m"}
+{"timestamp":"13:00:56:669","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:00:58:089","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:00:58:091","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:00:138","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:00:140","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:01:988","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:01:991","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"13:01:02:513","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"13:01:04:454","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:04:455","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/api/metrics/add\u001b[24m"}
+{"timestamp":"13:01:04:458","category":"none","level":"Debug","message":"Event summary: \u001b[90mFirstNonHeadshot, Evergreen_ShotFired\u001b[39m"}
+{"timestamp":"13:01:04:476","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:04:479","category":"none","level":"Debug","message":"Challenge f929efad-5d5e-4fcb-9c4e-6eb61a01412c completed"}
+{"timestamp":"13:01:04:481","category":"none","level":"Debug","message":"Actor 19747f56-e012-4d44-b2f0-4957ad3d60a7 eliminated."}
+{"timestamp":"13:01:04:481","category":"none","level":"Debug","message":"Event summary: \u001b[90mKill\u001b[39m"}
+{"timestamp":"13:01:04:505","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:04:507","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:04:540","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:04:543","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:05:976","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:05:978","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"13:01:07:453","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:07:455","category":"none","level":"Debug","message":"Event summary: \u001b[90mUnnoticed_Kill\u001b[39m"}
+{"timestamp":"13:01:08:701","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:08:704","category":"none","level":"Debug","message":"Event summary: \u001b[90mFirstMissedShot, Evergreen_ShotMissed\u001b[39m"}
+{"timestamp":"13:01:09:382","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:09:384","category":"none","level":"Debug","message":"Event summary: \u001b[90mEvergreen_ShotMissed\u001b[39m"}
+{"timestamp":"13:01:10:219","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:10:224","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"13:01:11:362","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:11:368","category":"none","level":"Debug","message":"Event summary: \u001b[90mBodyFound, DeadBodySeen\u001b[39m"}
+{"timestamp":"13:01:11:399","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:11:403","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"13:01:12:514","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveAndSynchronizeEvents4\u001b[24m"}
+{"timestamp":"13:01:14:763","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:14:766","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
+{"timestamp":"13:01:15:371","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:15:374","category":"none","level":"Debug","message":"Event summary: \u001b[90mHero_Health\u001b[39m"}
+{"timestamp":"13:01:15:409","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:15:412","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:15:429","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:15:431","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:15:466","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:15:469","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:15:485","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:15:488","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:15:540","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:15:544","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Witnesses\u001b[39m"}
+{"timestamp":"13:01:16:320","category":"http","level":"Info","message":"\u001b[32mPOST\u001b[39m \u001b[4m/authentication/api/userchannel/EventsService/SaveEvents2\u001b[24m"}
+{"timestamp":"13:01:16:323","category":"none","level":"Debug","message":"Event summary: \u001b[90mSpotted, Spotted\u001b[39m"}
